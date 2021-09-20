@@ -1,2 +1,2 @@
-# primary_school_math_solver
+#alt_isk_math_solver
 ~2016
