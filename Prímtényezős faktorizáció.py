@@ -17,9 +17,3 @@ while kilepes != True:
     i = input("HA KI AKARSZ LÉPNI NYOMD MEG A q-T ÉS EGY ENTER-T ")
     if i == "q":
         kilepes = True
-
-                             
-
-
-  
-        
