@@ -13,5 +13,3 @@ while kilepes != True:
     i = input("Kilépsz???q ")
     if i == "q":
         kilepes = True
-
-    
